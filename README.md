@@ -1,5 +1,5 @@
 
-![Cover](images/cover.png)  
+![Cover](yoni_Mesa_de_trabajo_1.jpg)  
 
 # 🎱 Ask Me Anything - Decision Maker App
 
@@ -49,7 +49,7 @@ Learning these basics makes you ready to build **real-world apps** (games, produ
 ## 📷 Screenshot
 Here’s what the app looks like in action:
 
-![Screenshot](images/screenshot.png)  
+![Screenshot](image.png)  
 
 ---
 
