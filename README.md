@@ -1,5 +1,5 @@
 
-![Cover](yoni_Mesa_de_trabajo_1.jpg)  
+![Cover](yoni.jpg)  
 
 # 🎱 Ask Me Anything - Decision Maker App
 
